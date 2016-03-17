@@ -180,6 +180,7 @@ input.sp-selector-5:checked ~ .sp-content .sp-parallax-bg {
     float: left;
     text-align: center;
     opacity: 0.4;
+    transition:  0.8s 0.2s ease-in;
 }
 
 .sp-slider > li img{
